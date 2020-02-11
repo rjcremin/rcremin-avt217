@@ -1,0 +1,29 @@
+body {
+  background-color: #fefbd8;
+  color: #618685;
+  font-family: sans-serif;
+  font-size: 20px;
+  margin: 100px 50px 75px 25px;
+}
+h1 {
+  text-align: center;
+  font-family: serif;
+}
+h2 {
+  text-align: center;
+  font-family: serif;
+}
+h4 {
+  text-transform: uppercase;
+}
+p {
+  color: #36486b;
+  padding: 5px 5px 10px;
+}
+ul {
+  list-style-type: decimal;
+  padding: 25px 100px 25px 75px;
+}
+li {
+  padding: 5px
+}
