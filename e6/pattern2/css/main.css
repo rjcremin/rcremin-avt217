@@ -1,7 +1,7 @@
 body {
   margin: 0;
   overflow-x: hidden;
-  background-color: #midnightblue;
+  background: #midnightblue;
 }
 .container {
  width: 110vw;
@@ -12,11 +12,10 @@ body {
   height: 100px;
   float: left;
   /* opacity: .7; */
-  /*border-radius: 50%;
-  border: 10px solid black;*/
+  border-radius: 50%;
+  border: 10px solid black;
 }
 .block-1 {
-  border-radius: 10%;
   border: 10px solid #ffffff;
   width: 300px;
   height: 300px;
@@ -31,7 +30,6 @@ body {
   opacity: .7
 }
 .block-3 {
-  border-radius: 112%;
   border: 10px solid #ffffff;
   float: left;
   width: 100px;

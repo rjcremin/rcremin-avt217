@@ -1,0 +1,46 @@
+body {
+  background-color: #F0EAD6;
+}
+h1 {
+  font-family: blenny, sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 100px;
+  text-align: center;
+  color: #343148;
+  margin: 10px 100px 25px 100px;
+  line-height: 1;
+}
+  h2 {
+    font-family: ff-basic-gothic-pro, sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 50px;
+    text-align: center;
+    color: #343148;
+    margin: 0px 100px 100px 100px;
+    line-height: 1;
+  }
+p {
+  font-family: ff-basic-gothic-pro, sans-serif;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 90px
+  color: #343148;
+  margin: 0px 200px 0px 200px;
+}
+a {
+  color: #9e1030;
+  font-size: 90px
+  letter-spacing: 25px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+a:hover {
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #e81748;
+}
+a .urania:hover {
+  color: #343148
+}

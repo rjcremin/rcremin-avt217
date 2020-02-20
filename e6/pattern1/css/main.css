@@ -1,7 +1,7 @@
 body {
   margin: 0;
   overflow-x: hidden;
-  background-color: #midnightblue;
+  background-color: #e06377;
 }
 .container {
  width: 110vw;
@@ -18,15 +18,15 @@ body {
 .block-1 {
   border-radius: 10%;
   border: 10px solid #ffffff;
-  width: 300px;
-  height: 300px;
-  border-color: cyan;
+  width: 200px;
+  height: 200px;
+  border-color: pink;
   margin: 50px;
 }
 .block-2 {
   width: 200px;
   height: 200px;
-  background-color: magenta;
+  background-color: red;
   margin: -50px;
   opacity: .7
 }
@@ -34,8 +34,8 @@ body {
   border-radius: 112%;
   border: 10px solid #ffffff;
   float: left;
-  width: 100px;
-  height: 100px;
-  border-color: #deeppink;
-  margin: -100px;
+  width: 200px;
+  height: 200px;
+  border-color: #white;
+  margin: 50px;
 }
