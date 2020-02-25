@@ -1,5 +1,6 @@
 body {
   background-color: #F0EAD6;
+
 }
 h1 {
   font-family: blenny, sans-serif;
@@ -24,23 +25,40 @@ h1 {
 p {
   font-family: ff-basic-gothic-pro, sans-serif;
   font-style: normal;
+  font-size: 25px;
   font-weight: 100;
-  font-size: 90px
   color: #343148;
-  margin: 0px 200px 0px 200px;
+  margin: 0px 200px 5px 200px;
 }
 a {
-  color: #9e1030;
-  font-size: 90px
-  letter-spacing: 25px;
+  color: goldenrod;
   text-transform: uppercase;
   text-decoration: none;
 }
-a:hover {
-  font-weight: bold;
-  text-transform: uppercase;
-  color: #e81748;
+a.urania:hover {
+  color: #343148;
 }
-a .urania:hover {
-  color: #343148
+a.erato:hover {
+  color: #9e1030;
+}
+a.euterpe:hover {
+  color: #911433;
+}
+a.clio:hover {
+  color: #841836;
+}
+a.calliope:hover {
+  color: #761c39;
+}
+a.melpomene:hover {
+  color: #69213c;
+}
+a.thalia:hover {
+  color: #5c253f;
+}
+a.terpsichore:hover {
+  color: #4f2942;
+}
+a.polyhymnia:hover {
+  color: #412d45;
 }

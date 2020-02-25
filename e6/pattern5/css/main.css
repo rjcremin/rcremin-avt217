@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  overflow-x: hidden;
+  background: cornsilk;
+}
+.container {
+ width: 110vw;
+ margin: -50px -10%;
+}
+.block-1 {
+  width: 100px;
+  height: 80px;
+  float: left;
+  border-radius: 50%;
+  background-color: lightpink;
+  border: 10px solid: firebrick;
+  opacity: .7;
+  margin: 25px 25px 25px 25px;
+}
+.block-2 {
+  width: 25px;
+  height: 25px;
+  float: left;
+  border-radius: 50%;
+  background-color: firebrick;
+  margin: 50px -105px;
+}
+.block-3 {
+  width: 25px;
+  height: 25px;
+  float: left;
+  border-radius: 50%;
+  background-color: firebrick;
+  margin: 50px -70px;
+}
