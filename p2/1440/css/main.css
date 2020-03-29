@@ -1,0 +1,230 @@
+body {
+  margin: 0px auto;
+  background-color: black;
+}
+/* font-family: montserrat,sans-serif;
+font-weight: 400;
+font-style: normal; */
+/*
+font-family: bungee,sans-serif;
+font-weight: 400;
+font-style: normal;
+
+font-family: bungee,sans-serif;
+font-weight: 500;
+font-style: normal;
+
+font-family: bungee,sans-serif;
+font-weight: 600;
+font-style: normal;
+
+font-family: bungee,sans-serif;
+font-weight: 700;
+font-style: normal;
+
+font-family: bungee,sans-serif;
+font-weight: 800;
+font-style: normal; */
+h1 {
+  font-family: bungee,sans-serif;
+  font-weight: 400;
+  color: #c1282d;
+  font-size: 150px;
+  margin: -80px auto;
+  font-style: normal
+}
+h2 {
+  font-family: bungee,sans-serif;
+  font-weight: 500;
+  color: #2baae2;
+  font-size: 150px;
+  margin: -160px auto;
+  font-style: normal
+}
+h3 {
+  font-family: bungee,sans-serif;
+  font-weight: 600;
+  color: #c1282d;
+  font-size: 150px;
+  margin: -80px auto;
+  font-style: normal
+}
+h4 {
+  font-family: bungee,sans-serif;
+  font-weight: 700;
+  color: #2baae2;
+  font-size: 150px;
+  margin: -160px auto;
+  font-style: normal
+}
+h5 {
+  font-family: bungee,sans-serif;
+  font-weight: 800;
+  color: #c1282d;
+  font-size: 150px;
+  margin: -80px auto;
+  font-style: normal
+}
+h6 {
+  font-family: bungee,sans-serif;
+  font-weight: 800;
+  color: #c1282d;
+  font-size: 100pt;
+  writing-mode: vertical-lr;
+  text-orientation: upright;
+  margin: -80px auto;
+
+}
+h7 {
+  font-family: bungee,sans-serif;
+  font-weight: 400;
+  color: white;
+  font-size: 20pt;
+  margin: 100px auto;
+  writing-mode: vertical-lr;
+  font-style: normal
+}
+h8 {
+  font-family: bungee,sans-serif;
+  font-weight: 600;
+  color: white;
+  font-size: 20pt;
+  float: left;
+}
+h9 {
+  font-family: bungee,sans-serif;
+  font-weight: 600;
+  color: white;
+  font-size: 20pt;
+  float: left;
+}
+h10 {
+  font-family: bungee,sans-serif;
+  font-weight: 700;
+  color: white;
+  font-size: 25pt;
+  float: left;
+}
+h11 {
+  font-family: bungee,sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 80pt;
+  color: #c1282d;
+  word-wrap: break-word
+}
+h12 {
+  font-family: bungee,sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  color: #c1282d;
+  line-height: 25px;
+  font-size: 120pt;
+  text-align: center;
+}
+h13 {
+  font-family: bungee,sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  color: #2baae2;
+  font-size: 60pt;
+  text-align: center;
+}
+h14 {
+  font-family: bungee,sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  color: #c1282d;
+  line-height: 25px;
+  font-size: 100pt;
+  text-align: center;
+}
+h15 {
+  font-family: bungee,sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  color: #c1282d;
+  line-height: 25px;
+  font-size: 50pt;
+  text-align: center;
+}
+p {
+  font-family: montserrat,sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  font-size: 12pt;
+  padding: 0px 0px 80px 80px;
+  float: left;
+}
+.bigcontainer {
+  width: 1440px;
+}
+.column {
+  float: left;
+  width: 160px;
+  height: 1070px;
+  float: left;
+  background-color: transparent;
+  border-radius: 0%;
+  border: 10px solid #2baae2;
+  border-bottom: solid black;
+  border-top: solid black;
+  margin-left: 160px;
+}
+.display {
+  width: 800px;
+  height: 1080px;
+  margin-left: 106px;
+  float: left;
+  background-color: transparent;
+  margin-bottom: 80px;
+}
+.halfbox {
+  width: 720px;
+  height: 800px;
+  float: left;
+}
+.bluebox {
+  width: 720px;
+  height: 482px;
+  background-color: #2baae2;
+}
+.redbox {
+  width: 720px;
+  height: 482px;
+  background-color: #c1282d;
+  float: left;
+}
+.textbox {
+  width: 480px;
+  margin: 80px 0px -25px 80px;
+  float: left;
+}
+.whitebox {
+  width: 400px;
+  height: 320px;
+  background-color: white;
+  float: left;
+}
+.specimen {
+  width: 1120px;
+  background-color: transparent;
+  margin: 80px 160px 80px 160px;
+  float: left;
+}
+.sampleyellow {
+  width: 1120px;
+  height: 184px;
+  margin: 95px 160px 80px 155px;
+  background-color: yellow;
+  float: left;
+}
+.samplewhite {
+  width: 1120px;
+  height: 184px;
+  margin: -275px 160px 80px 160px;
+  background-color: white;
+  float: left;
+  display: inline-block
+}

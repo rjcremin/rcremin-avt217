@@ -1,0 +1,227 @@
+body {
+  margin: 0px auto;
+  background-color: black;
+}
+/* font-family: montserrat,sans-serif;
+font-weight: 400;
+font-style: normal; */
+/*
+font-family: bungee,sans-serif;
+font-weight: 400;
+font-style: normal;
+
+font-family: bungee,sans-serif;
+font-weight: 500;
+font-style: normal;
+
+font-family: bungee,sans-serif;
+font-weight: 600;
+font-style: normal;
+
+font-family: bungee,sans-serif;
+font-weight: 700;
+font-style: normal;
+
+font-family: bungee,sans-serif;
+font-weight: 800;
+font-style: normal; */
+h1 {
+  font-family: bungee,sans-serif;
+  font-weight: 400;
+  color: #c1282d;
+  font-size: 100pt;
+  font-style: normal;
+  line-height: 25pt;
+}
+h2 {
+  font-family: bungee,sans-serif;
+  font-weight: 500;
+  color: #2baae2;
+  font-size: 100pt;
+  font-style: normal;
+  line-height: 25pt;
+}
+h3 {
+  font-family: bungee,sans-serif;
+  font-weight: 600;
+  color: #c1282d;
+  font-size: 100pt;
+  font-style: normal;
+  line-height: 25pt;
+}
+h4 {
+  font-family: bungee,sans-serif;
+  font-weight: 700;
+  color: #2baae2;
+  font-size: 100pt;
+  font-style: normal;
+  line-height: 25pt;
+}
+h5 {
+  font-family: bungee,sans-serif;
+  font-weight: 800;
+  color: #c1282d;
+  font-size: 100pt;
+  font-style: normal;
+  line-height: 25pt;
+}
+h6 {
+  font-family: bungee,sans-serif;
+  font-weight: 800;
+  color: #c1282d;
+  font-size: 100pt;
+  margin-left: -25px;
+}
+h7 {
+  font-family: bungee,sans-serif;
+  font-weight: 400;
+  color: white;
+  font-size: 20pt;
+  font-style: normal
+}
+h8 {
+  font-family: bungee,sans-serif;
+  font-weight: 600;
+  color: white;
+  font-size: 60pt;
+  padding-left: 113.8px;
+}
+h9 {
+  font-family: bungee,sans-serif;
+  font-weight: 600;
+  color: white;
+  font-size: 35pt;
+
+}
+h10 {
+  font-family: bungee,sans-serif;
+  font-weight: 700;
+  color: white;
+  font-size: 60pt;
+  line-height: 60pt;
+
+}
+h11 {
+  font-family: bungee,sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 80pt;
+  color: #c1282d;
+  word-wrap: break-word;
+  line-height: 100pt;
+}
+h12 {
+  font-family: bungee,sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  color: #c1282d;
+  line-height: 144pt;
+  font-size: 120pt;
+  text-align: center;
+}
+h13 {
+  font-family: bungee,sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  color: #2baae2;
+  font-size: 50pt;
+  line-height: 60pt;
+  text-align: center;
+}
+h14 {
+  font-family: bungee,sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  color: #c1282d;
+  line-height: 120pt;
+  font-size: 100pt;
+  text-align: center;
+}
+h15 {
+  font-family: bungee,sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  color: #c1282d;
+  line-height: 50pt;
+  font-size: 60pt;
+  text-align: center;
+}
+p {
+  font-family: montserrat,sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  font-size: 12pt;
+  padding: 0px 113.8px 0px 113.8px;
+}
+.container {
+  width: 1024px;
+}
+.column {
+  float: left;
+  width: 113.8px;
+  height: 1070px;
+  border-radius: 0%;
+  border: 10px solid #2baae2;
+  border-bottom: solid black;
+  border-top: solid black;
+}
+.sign {
+  float: left;
+  width: 113.8px;
+  height: 537.5px;
+  writing-mode: vertical-lr;
+  text-orientation: upright;
+}
+.author {
+width: 113.8px;
+height: 179.2px;
+}
+.display {
+  float: left;
+  width: 569px;
+  height: 1080px;
+  margin-left: 113.8px;
+}
+.halfbox {
+  float:left;
+  width: 1024px;
+  height: 483px;
+}
+.bluebox {
+  float: left;
+  width: 682.8px;
+  height: 482px;
+  background-color: #2baae2;
+}
+.redbox {
+  float: left;
+  width: 682.8px;
+  height: 482px;
+  background-color: #c1282d;
+}
+.whitebox {
+  float: left;
+  width: 341.2px;
+  height: 140.8px;
+  background-color: white;
+}
+.image {
+  float: left;
+  width: 341.2px;
+  height: 482px;
+}
+.specimen {
+  width: 796.6px;
+  background-color: transparent;
+  float: left;
+  margin-left: 113.8px;
+}
+.sample {
+  float: left;
+  overflow: scroll;
+  width: 796.6px;
+  height: 374.5px;
+  background-color: white;
+  margin: 0px 113.8px 100px 113.8px;
+}
